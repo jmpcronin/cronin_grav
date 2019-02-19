@@ -8,4 +8,4 @@ taxonomy:
         
 ---
 
-Another test. I was lucky to attend the Picademy at Johnson and Wales University in Providence, RI this past June. Picademy was two days of workshops to introduce educators to the Raspberry Pi computer. While I was familiar with Raspberry Pis, until the Picademy, I hadn’t really spent much time with this $37 device. After two days and a half dozen workshops, I was amazed by what this little computer can do.
+Another test. IA Writer Test. I was lucky to attend the Picademy at Johnson and Wales University in Providence, RI this past June. Picademy was two days of workshops to introduce educators to the Raspberry Pi computer. While I was familiar with Raspberry Pis, until the Picademy, I hadn’t really spent much time with this $37 device. After two days and a half dozen workshops, I was amazed by what this little computer can do.
