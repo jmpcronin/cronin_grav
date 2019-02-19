@@ -1,7 +1,7 @@
 ---
 title: 'testing push'
-date: '02-19-2019 10:33'
-publish_date: '02-19-2019 10:33'
+date: '19-02-2019 10:33'
+publish_date: '19-02-2019 10:33'
 taxonomy:
     category:
         - markdown
