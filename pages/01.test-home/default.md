@@ -1,5 +1,13 @@
 ---
 title: 'Test Home'
+content:
+    items: '@self.children'
+    limit: '5'
+    order:
+        by: date
+        dir: desc
+    pagination: '1'
+    url_taxonomy_filters: '1'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique ornare risus. Donec eget erat nec orci tempus fermentum eu eget elit. Aenean massa enim, mollis sed viverra vitae, ultrices et elit. Aliquam non accumsan turpis. Ut vel lectus lacus, nec elementum ante. In eleifend euismod lorem, in vehicula augue varius quis. Nam quis dolor non nisl interdum accumsan a sed lectus. In non rhoncus velit. Integer nec urna enim, id consectetur sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec pharetra diam eget nulla molestie ultrices. Cras accumsan lobortis ipsum id feugiat.
